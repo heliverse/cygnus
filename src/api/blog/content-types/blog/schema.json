@@ -29,6 +29,11 @@
       "type": "component",
       "repeatable": false,
       "component": "card.blog-card"
+    },
+    "Chefcart_works": {
+      "type": "component",
+      "repeatable": false,
+      "component": "container.chefcart-works"
     }
   }
 }
